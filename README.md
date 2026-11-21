@@ -19,3 +19,10 @@
 | 嵌入式 Linux 开发 | [Embedded_linux_development](./Embedded_linux_development/) |
 | 网络管理理论与实践 | [NJUPT_IOT_Theory-and-Practice-of-Network-Management](./NJUPT_IOT_Theory-and-Practice-of-Network-Management/) |
 | 鸿蒙实践周 | [HarmonyOS_practice_week](./HarmonyOS_practice_week/) |
+| 在线选题系统 | [online_subjectselection_system](./online_subjectselection_system/) |
+| 数据结构算法设计（KMP） | [KMP_data-structure-algorithm-design-](./KMP_data-structure-algorithm-design-/) |
+| Python 实验报告 | [python_experiment_report](./python_experiment_report/) |
+| 机器学习 | [machine_learning_course](./machine_learning_course/) |
+| C 语言程序设计实践周（俄罗斯方块） | [Tetris_c_programming-week](./Tetris_c_programming-week/) |
+| 计算机组成原理 | [principle-of-Computer-Organization](./principle-of-Computer-Organization/) |
+| 电工电子基础实验 B | [Basic-Experiment-B-in-Electrical-and-Electronic-Engineering](./Basic-Experiment-B-in-Electrical-and-Electronic-Engineering/) |
